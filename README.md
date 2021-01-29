@@ -1,4 +1,4 @@
-## Hi! ##
+## Hi there 👋 , I'm Ruslan Enikeev ##
 
 ![atomatoe's 42 stats](https://badge42.herokuapp.com/api/stats/atomatoe?privacyEmail=true)
 
