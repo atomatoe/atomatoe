@@ -1,4 +1,4 @@
-### Заголовок третьего уровня ###
+### Заголовок третьего уровня ### (https://github.com/atomatoe)
 
 ![atomatoe's 42 stats](https://badge42.herokuapp.com/api/stats/atomatoe?privacyEmail=true)
 
