@@ -7,3 +7,4 @@
 2. [Реализация принципов ООП](https://github.com/atomatoe/CPP_modules)
 3. [Многопоточность. Задачи об обедающих философах](https://github.com/atomatoe/ft_philosophers)
 4. [Командная(терминальная) оболочка](https://github.com/atomatoe/minishell)
+5. [3D игра, технология Raycasting](https://github.com/atomatoe/cub3D)
