@@ -1,6 +1,6 @@
 > ## Hi there 👋 , I'm [Ruslan Enikeev](https://github.com/atomatoe) ##
 
-[![atomatoe's 42 stats](https://badge42.herokuapp.com/api/stats/smanhack?privacyEmail=true)](https://github.com/atomatoe)
+[![atomatoe's 42 stats](https://badge42.herokuapp.com/api/stats/atomatoe?privacyEmail=true)](https://github.com/atomatoe)
 
 > <b>Мои проекты:</b>
 1. [HTTP сервер по стандарту RFC 7230-7235](https://github.com/atomatoe/webserv)
