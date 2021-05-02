@@ -4,7 +4,7 @@
 
 > <b>Мои проекты:</b>
 1. [HTTP сервер по стандарту RFC 7230-7235](https://github.com/atomatoe/webserv)
-2. [Стандартная библиотека шаблонов (STL)](https://github.com/atomatoe/ft_containers)
+2. [Библиотека стандартных шаблонов (STL)](https://github.com/atomatoe/ft_containers)
 3. [Реализация принципов ООП](https://github.com/atomatoe/CPP_modules)
 4. [Многопоточность. Задачи об обедающих философах](https://github.com/atomatoe/ft_philosophers)
 5. [Командная(терминальная) оболочка](https://github.com/atomatoe/minishell)
