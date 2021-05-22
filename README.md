@@ -10,3 +10,4 @@
 5. [Командная(терминальная) оболочка](https://github.com/atomatoe/minishell)
 6. [Kubernetes. Кластаризация.](https://github.com/atomatoe/ft_service)
 7. [3D игра, технология Raycasting](https://github.com/atomatoe/cub3D)
+8. [Знакомство с библиотекой jsoup](https://github.com/atomatoe/jsoupParse)
