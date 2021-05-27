@@ -11,3 +11,4 @@
 6. [Kubernetes. Кластаризация.](https://github.com/atomatoe/ft_service)
 7. [3D игра, технология Raycasting](https://github.com/atomatoe/cub3D)
 8. [Знакомство с библиотекой jsoup](https://github.com/atomatoe/jsoupParse)
+9. [Minitalk, работа c сигналами](https://github.com/atomatoe/minitalk)
