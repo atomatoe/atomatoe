@@ -13,4 +13,5 @@
 8. [3D игра, технология Raycasting](https://github.com/atomatoe/cub3D)
 9. [Знакомство с библиотекой jsoup](https://github.com/atomatoe/jsoupParse)
 10. [Avaj-launcher. Basic java project](https://github.com/atomatoe/avaj-launcher)
-11. [Minitalk, работа c сигналами](https://github.com/atomatoe/minitalk)
+11. [Swingy. JavaFX, GUI. 2D Game](https://github.com/atomatoe/swingy)
+12. [Minitalk, работа c сигналами](https://github.com/atomatoe/minitalk)
