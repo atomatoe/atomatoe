@@ -1,6 +1,8 @@
-> ## Hi there 👋 , I'm [Ruslan Enikeev](https://github.com/atomatoe) ##
-
-[![atomatoe's 42 stats](https://badge42.vercel.app/api/v2/cl1l14ti3026409iashywfl4x/stats?cursusId=21&coalitionId=104)](https://github.com/atomatoe)
+<div id="header" align="Center">
+    <h1>Hi there, I'm  Ruslan </h1>
+    <h3>QA automation engineer</h3>
+  
+</div>
 
 > <b>Мои проекты:</b>
 1. [Сайт-платформа для игры в пингпонг](https://github.com/atomatoe/ft_transcendence)
